@@ -1,0 +1,38 @@
+{
+  "name": "Mladen",
+  "apps": [
+    {
+      "name": "qBitControl",
+      "bundleIdentifier": "MikeMichael225.qBitControl",
+      "developerName": "Developer",
+      "iconURL": "https://raw.githubusercontent.com/Mla-den/qBitControl/master/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2024-07-28",
+          "size": 2150621,
+          "downloadURL": "https://Mla-den.github.io/qBitControl-releases/ADP",
+          "localizedDescription": "New features and bug fixes.",
+          "minOSVersion": "16.0",
+          "buildVersion": "6"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Uses local network."
+          }
+        ]
+      },
+      "marketplaceID": "6503435272",
+      "localizedDescription": "No"
+    }
+  ],
+  "news": [
+
+  ]
+}
